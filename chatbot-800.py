@@ -1,5 +1,3 @@
-import math 
-
 print('hello i am chatbot-1')                 #print welcome banner
 
 print('mind if i ask you a few questions?')   #Enquire to learn
